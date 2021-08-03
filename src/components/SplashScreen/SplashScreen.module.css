@@ -1,0 +1,14 @@
+.splashBackground {
+  position: absolute;
+  top: 0;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+  z-index: 100;
+  background-color: #2675ec;
+}
+
+.spinnerIcon {
+  width: 6%;
+}
